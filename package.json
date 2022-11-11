@@ -5,6 +5,7 @@
   "scripts": {
     "win": "node src/index.js" 
   },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Im-DaBeen/wetube-reloaded.git"
